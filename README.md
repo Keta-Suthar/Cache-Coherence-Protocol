@@ -73,4 +73,5 @@ This simulator provides a practical way to:
 - Observe how coherence protocols handle shared memory traffic
 The design is modular, extensible, and understand the nuances of cache coherence.
 
-Output: can be found in output folder.
+Output: can be found in [output folder](https://github.com/Keta-Suthar/Cache-Coherence-Protocol/tree/main/Output).
+For more information feel free to contact me at ksuthar@ncsu.edu 
